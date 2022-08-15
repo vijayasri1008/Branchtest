@@ -7,7 +7,7 @@ public class test1 {
 	}
 	public void testlogin()
 	{
-		System.out.println("test1");
+		System.out.println("test12");
 	}
 
 }
